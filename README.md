@@ -1,2 +1,1 @@
-<img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/1be291ef-65a3-4fe0-b72a-50013eac7325" /><img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/56a5a128-9265-4a4a-bec5-7084d0b443cb" /># Resume
-![image alt](https://github.com/varunpm-ai-ai/Resume/blob/a3a576682b97c5d81176a2e52d09b1a3f6abb541/ATS_Friendly_Technical_Resume__3_.pdf)
+<img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/1be291ef-65a3-4fe0-b72a-50013eac7325" />
